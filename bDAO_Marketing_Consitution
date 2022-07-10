@@ -252,9 +252,10 @@ If the elections turn out invalid, the election will be re-created on a higher l
 
 VI. Initiatives / Proposals
 VI.I Proposal Types
-Social Proposal: Change things that don’t need on-chain involvement, such as elections, bounty ideas, etc. (Seshbot or Discord Emoji Reaction)
-Executable Proposal: involve smart contract execution by the wallets controlled by the guild. Please use this template: Project Proposal Template (frogmonkee)
-Constitution Amendment: as the name indicates, are changes proposed to the guild constitution. This vote is for bDAO Level 1 and higher
+- Social Proposal: Change things that don’t need on-chain involvement, such as elections, bounty ideas, etc. (Seshbot or Discord Emoji Reaction)
+- Executable Proposal: involve smart contract execution by the wallets controlled by the guild. Please use this template: Project Proposal Template (frogmonkee)
+- Constitution Amendment: as the name indicates, are changes proposed to the guild constitution. This vote is for bDAO Level 1 and higher. If you would like to propose a change to the constitution, please create a Pull Request on GitHub: https://github.com/voellmy42/MarketingGuildConstitution
+
 VI.II Guild Governance Framework
 This is a guidance framework. Feel free to do what you think is right for your particular proposal (e.g. if it’s a simple proposal and needs to be advanced quickly you may move to the voting stage). Note: if your idea doesn’t require guild funds or the addition/revision/depreciation of a guild role or active program, then you probably don’t need to follow this process and can just do a temperature and awareness check via messages in the appropriate guild channel.
 
